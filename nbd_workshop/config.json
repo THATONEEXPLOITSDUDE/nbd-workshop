@@ -1,0 +1,111 @@
+{
+ "teamKey": "J",
+ "pickupSkins": true,
+ "hitVolume": 1.7,
+ "sounds": [
+  {
+   "volume": 1.8,
+   "to": "OldSpades.mp3",
+   "from": "Spades"
+  },
+  {
+   "volume": 1.8,
+   "to": "Bergmann1.mp3",
+   "from": "Bergmann1"
+  },
+  {
+   "volume": 1.8,
+   "to": "Bergmann2.mp3",
+   "from": "Bergmann2"
+  },
+  {
+   "volume": 0.7,
+   "to": "Liquidator.mp3",
+   "from": "fridayintro"
+  }
+ ],
+ "padHideTopbar": true,
+ "padAimSens": 60,
+ "assistShare": 35,
+ "padInvertY": false,
+ "hitSound": "hitmarker",
+ "enabled": true,
+ "hitMode": "server",
+ "controller": true,
+ "mineOnly": true,
+ "hitmarkers": false,
+ "radio": {
+  "98.4 AUUH happy music": {
+   "tracks": [
+    "Nobig deal track",
+    "Torment",
+    "Rubber boy 4",
+    "Arms race chinese nightcore version",
+    "Character Customization"
+   ],
+   "shuffle": false,
+   "custom": false,
+   "volume": 1
+  },
+  "89.3 RSRO Radio San Rosa": {
+   "tracks": [
+    "coda",
+    "al-25",
+    "sway n tuck",
+    "tinkerbell",
+    "ranch",
+    "spades",
+    "doa",
+    "eve.mp3"
+   ],
+   "shuffle": false,
+   "custom": true,
+   "volume": 1.5
+  },
+  "89.0 RAIN Non-Stop Rain": {
+   "tracks": [],
+   "shuffle": false,
+   "custom": false,
+   "volume": 1
+  },
+  "93.4 GRAF Radio Graffiti": {
+   "tracks": [
+    "fruity_loop",
+    "2",
+    "11520223",
+    "3",
+    "beat3_2",
+    "organs_coner",
+    "1"
+   ],
+   "shuffle": false,
+   "custom": false,
+   "volume": 1
+  }
+ },
+ "fovHook": false,
+ "skins": {
+  "Kick10": "OldKick.rbxm",
+  "HardballMag": "IvoryHardballMag.rbxm",
+  "UralMag": "FullUralMag.rbxm",
+  "Hardball": "IvoryHardball.rbxm",
+  "DB": "Model4.rbxm",
+  "Ural": "FullUral.rbxm",
+  "Sniper": "Carcosa2.rbxm",
+  "Kick10Mag": "OldKickMag.rbxm",
+  "AceCarbine": "SupressedAce.rbxm",
+  "Ruby": "OldRuby.rbxm",
+  "Forte": "ForteWStock.rbxm",
+  "PitchGun": "Pinto.rbxm",
+  "ForteMag": "ForteMag.rbxm",
+  "TheFix": "FixNoSilencer.rbxm",
+  "Romano": "RomanoWStock.rbxm",
+  "PitchMag": "PintoMag.rbxm"
+ },
+ "teamViewer": true,
+ "fov": 94,
+ "voteTimer": true,
+ "vcNames": true,
+ "padSens": 1,
+ "perfCounter": true
+}
